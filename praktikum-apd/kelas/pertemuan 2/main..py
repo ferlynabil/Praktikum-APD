@@ -1,15 +1,15 @@
-# Nama = "Adrian"
-# nama1 = "Muhammad"
+# Nama = "Ferly"
+# nama1 = "Nabil"
 # angka = "123"
 
 # print(Nama)
 # print(nama)
 # print(type (angka))
 # print("""Halo,
-# Saya Muhammad Adrian sedang belajar ngoding
+# Saya Ferly Nabil sedang belajar ngoding
 # Bahasa Pemrograman python""")
 
-# print("halo""saya""durian")
+# print("halo""saya""nabil")
 # print("halo"+"")
 
 # teks = 'saya suka belajar apd'
@@ -35,9 +35,9 @@
 # print(warna['warna1'])
 # print(warna['warna3'])
 
-# biodata = {'nama' : 'Durian',
+# biodata = {'nama' : 'Nabil',
         #    'kelas' : 'A',
-        #    'umur' : '17'}
+        #    'umur' : '18'}
 
 # print(biodata['nama'])
 
