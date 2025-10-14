@@ -1,3 +1,4 @@
+
 import os
 
 username_benar = "nabil"
@@ -42,7 +43,6 @@ while True:
         a = int(input("Masukkan sisi A: "))
         b = int(input("Masukkan sisi B: "))
         c = int(input("Masukkan sisi C: "))
-
 
         if a + b > c and a + c > b and b + c > a:
             if a == b == c:
